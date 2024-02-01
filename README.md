@@ -31,8 +31,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [blog-preview-card](https://zingy-dango-8557c6.netlify.app/)
-- Live Site URL: [blog-preview-card](https://github.com/saulgutierrez/blog-preview-card-main)
+- Solution URL: [blog-preview-card](https://github.com/saulgutierrez/blog-preview-card-main)
+- Live Site URL: [blog-preview-card](https://zingy-dango-8557c6.netlify.app/)
 
 ## My process
 
